@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Robert Craft</h1>
+<h1 align="center">Hi 👋, I'm Robert</h1>
 <h3 align="center">Digital Genius</h3>
 <img align="center" alt="Coding" width="350" src= "https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
