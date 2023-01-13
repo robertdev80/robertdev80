@@ -25,7 +25,7 @@
 <p>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-green.svg?logo=django&logoColor=white"></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-white.svg?logo=flask&logoColor=black"></a>
-    <a href="#"><img alt="Ruby on Rails" src="https://img.shields.io/badge/.NET-yellow.svg?logo=dotnet&logoColor=black"></a>
+    <a href="#"><img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby-yellow.svg?logo=dotnet&logoColor=black"></a>
     <a href="#"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-white.svg?logo=aspdotnett&logoColor=blue"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-white.svg?logo=react&logoColor=blue"></a>
     <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-white.svg?logo=redux&logoColor=purple"></a>
